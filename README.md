@@ -1,105 +1,133 @@
+<!-- Bandeau animé -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Your+Name;DevOps+%26+Cloud+Engineer;Automating+the+future+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Hey+👋+Bienvenue+sur+mon+GitHub+!;DevOps+%26+Cloud+Engineer+Senior+☁️🚀;Automatisation+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;8%2B+ans+d'expérience+en+infra+et+DevOps+🔥" />
 </div>
 
-<h3 align="center">Passionate about building scalable cloud infrastructures, CI/CD pipelines, and reliable systems with DevOps practices.</h3>
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://yourportfolio.com">Portfolio</a> •
-  <a href="mailto:you@example.com">Email</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a>
+# 👋 Hello, I'm **[Ton Nom]**
+### 🚀 **Senior DevOps & Cloud Engineer**  
+☁️ Cloud | ⚙️ Automatisation | 🐳 Kubernetes | 🔁 CI/CD | 🔐 Sécurité | 🧩 Big Data
+
+💬 *Je construis, j'automatise et j'optimise des plateformes Cloud & On-Prem pour de grands comptes. Passionné par Kubernetes, Ansible, IaC et la fiabilité des systèmes critiques.*
+
+---
+
+# 🛠️ Tech Stack & Outils
+
+## ☁️ **Cloud & Infra**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3DS_Outscale-0064FD?style=for-the-badge"/>
+</p>
+
+## 🐳 **Conteneurs & Orchestration**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+## 🔁 **CI/CD & IaC**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+## 👨‍💻 **Languages & Dev**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"/>
+</p>
+
+## 🔐 **Sécurité**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kerberos-FF0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSL%2FTLS-0033A0?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🌟 About Me
-
-- 🔧 DevOps & Cloud Engineer with experience in automating infrastructure, optimizing deployments, and ensuring high availability.
-- ☁️ Proficient in multi-cloud environments (AWS, Azure, GCP), focusing on serverless, containers, and security.
-- 🚀 Enthusiast for GitOps, observability, and reducing toil through scripting and tools.
-- 📈 Currently exploring: Advanced Kubernetes operators, cost optimization in cloud, and AI-driven monitoring.
-- 💬 Fun fact: I've automated deployments for apps serving millions of users with zero downtime.
+# 🏆 Certifications
+- 🟦 **SAFe 5 Agilist**  
+- 🟩 **LPIC-OT DevOps Tools Engineer**  
+- 🟦 **CKA – Kubernetes Administrator (formation)**  
+- 🟥 **RHCSA – Red Hat System Administrator**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 💼 Expérience Pro (Résumé Stylisé)
 
-#### Cloud Platforms
-- AWS (EC2, S3, Lambda, EKS, RDS, IAM)
-- Azure (AKS, App Service, Cosmos DB, DevOps Pipelines)
-- GCP (GKE, Cloud Run, BigQuery)
-
-#### Infrastructure as Code (IaC)
-- Terraform, Pulumi
-- Ansible, CloudFormation
-
-#### Containers & Orchestration
-- Docker, Kubernetes (Helm, Kustomize)
-- Podman, OpenShift
-
-#### CI/CD & Automation
-- GitHub Actions, Jenkins, GitLab CI
-- Argo CD, Flux (GitOps)
-
-#### Observability & Monitoring
-- Prometheus, Grafana, ELK Stack
-- Datadog, New Relic, CloudWatch
-
-#### Programming & Scripting
-- Python, Bash, Go
-- YAML, JSON
-
-#### Other
-- Linux/Unix, Git, Nginx/Apache
-- Security: Vault, OPA, Trivy
-- Databases: PostgreSQL, MongoDB, Redis
+### 🚀 **Ingénieur Système DevOps – OpenWork (Cagip)**  
+🗓 12/2024 → 08/2025  
+🔥 Ansible (playbooks / modules), FastAPI, CI/CD, ArgoCD, AWX, sécurisation, support client
 
 ---
 
-### 📈 GitHub Stats
+### ☁️ **Intégrateur Système DevOps – Predict4health**  
+🗓 12/2023 → 07/2024  
+⚙️ AWS (EKS/Beanstalk), CI/CD GitLab, Vault, monitoring, HA/DR, documentation
+
+---
+
+### 🧭 **Lead DevOps & Big Data – Jems Datafactory (Enedis)**  
+🗓 01/2021 → 12/2023  
+👥 Management équipe, Jenkins/Groovy, Kubernetes, Spark, CDP, sécurité (Ranger/Kerberos)
+
+---
+
+### 🏥 **DevOps – Open Group (AP-HP)**  
+🗓 07/2019 → 12/2020  
+🐳 Dockerisation EDS, Nagios, Oracle/PostgreSQL, migration vers Kubernetes
+
+---
+
+### 🏢 **DevOps & Production – Sopra HR Software**  
+🗓 06/2017 → 07/2019  
+⚙️ Jenkins, Ansible, AWS, Docker, Kubernetes bare-metal, Oracle/MySQL
+
+---
+
+# 🎓 Formation
+
+🎓 **Ingénieur en Informatique – Spécialité Cloud Computing**  
+ESPRIT – 2016  
+
+---
+
+# 📊 Stats GitHub (Animées & stylées)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=0EA5E9&label=Profile+Views)
+---
+
+# 🐍 Un petit snake pour la vibe 🐍
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
-### 🔥 Featured Projects
+# 📫 Me contacter
 
-- **Cloud-Native E-Commerce Platform**  
-  Built a scalable microservices app on AWS EKS with Terraform IaC, GitHub Actions CI/CD, and Prometheus/Grafana monitoring. Achieved 99.99% uptime and auto-scaling.  
-  [GitHub Repo](https://github.com/yourusername/cloud-ecommerce)
-
-- **Multi-Cloud Deployment Pipeline**  
-  Automated cross-cloud (AWS/Azure) deployments using Argo CD and Jenkins, including security scans and blue-green strategy for zero-downtime releases.  
-  [GitHub Repo](https://github.com/yourusername/multi-cloud-pipeline)
-
-- **Infrastructure Monitoring Dashboard**  
-  Developed a custom Grafana dashboard integrated with Loki for logs and alerting via Alertmanager, deployed on Kubernetes for a DevOps team.  
-  [GitHub Repo](https://github.com/yourusername/monitoring-dashboard)
-
-- **Serverless API Gateway**  
-  Created a cost-optimized serverless backend on AWS Lambda/API Gateway with Python, including automated testing and deployment via GitHub Actions.  
-  [GitHub Repo](https://github.com/yourusername/serverless-api)
-
----
-
-### 📚 Learning & Contributions
-
-- Active contributor to open-source DevOps tools on GitHub.
-- Blog posts on Hashnode/Medium about Kubernetes best practices and cloud cost management.
-- Certifications: AWS Certified DevOps Engineer, CKAD (Certified Kubernetes Application Developer).
-
----
-
-### 🤝 Open to Collaborate
-
-I'm always up for discussing DevOps challenges, cloud migrations, or contributing to automation projects. Let's connect!
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
+<p align="left">
+  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+<div align="center">
+  <h3>✨ Toujours ouvert à de nouveaux challenges Cloud & DevOps ✨</h3>
+</div>

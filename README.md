@@ -60,8 +60,6 @@
 # 🏆 Certifications
 - 🟦 SAFe 5 Agilist  
 - 🟩 LPIC-OT DevOps Tools Engineer  
-- 🟦 CKA – Kubernetes Administrator (formation)  
-- 🟥 RHCSA – Red Hat System Administrator
 
 ---
 
@@ -95,7 +93,7 @@ CI/CD Jenkins, Cloud AWS, Ansible, Kubernetes bare-metal, Oracle/MySQL.
 
 # 📫 Me contacter
 <p align="left">
-  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:samizouaoui91@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 

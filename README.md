@@ -1,15 +1,16 @@
-<!-- Bandeau animé -->
+<!-- Bannière animée -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Hey+👋+Bienvenue+sur+mon+GitHub+!;DevOps+%26+Cloud+Engineer+Senior+☁️🚀;Automatisation+%7C+Kubernetes+%7C+CI%2FCD+%7C+Cloud;8%2B+ans+d'expérience+en+infra+et+DevOps+🔥" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F7A418&size=26&center=true&vCenter=true&width=900&lines=Consultant+Cloud+%26+DevOps+Sénior+⚡;AWS+•+Kubernetes+•+Terraform+•+Ansible;Expert+CI%2FCD+%26+Automatisation+🚀;J'automatise+vos+infrastructures+pour+qu’elles+soient+autant+fiables+que+votre+machine+à+café+☕">
+
 </div>
 
 ---
 
-# 👋 Hello, I'm **[Ton Nom]**
-### 🚀 **Senior DevOps & Cloud Engineer**  
-☁️ Cloud | ⚙️ Automatisation | 🐳 Kubernetes | 🔁 CI/CD | 🔐 Sécurité | 🧩 Big Data
-
-💬 *Je construis, j'automatise et j'optimise des plateformes Cloud & On-Prem pour de grands comptes. Passionné par Kubernetes, Ansible, IaC et la fiabilité des systèmes critiques.*
+# 👋 Hello, I'm **Sami ZOUAOUI**
+🎯 Consultant Cloud & DevOps Sénior spécialisé en infrastructures Cloud, Kubernetes, IaC, pipelines CI/CD et automatisation avancée.  
+☕ *J’aime rendre les plateformes plus fiables que votre machine à café.*  
+🚀 8+ ans d'expérience dans des environnements critiques Cloud & On-Prem.
 
 ---
 
@@ -57,51 +58,33 @@
 ---
 
 # 🏆 Certifications
-- 🟦 **SAFe 5 Agilist**  
-- 🟩 **LPIC-OT DevOps Tools Engineer**  
+- 🟦 SAFe 5 Agilist  
+- 🟩 LPIC-OT DevOps Tools Engineer  
+- 🟦 CKA – Kubernetes Administrator (formation)  
+- 🟥 RHCSA – Red Hat System Administrator
 
 ---
 
-# 💼 Expérience Professionelle
+# 💼 Expérience Pro
 
 ### 🚀 **Ingénieur Système DevOps – OpenWork (Cagip)**  
-🗓 12/2024 → 08/2025  
-🔥 Ansible (playbooks / modules), FastAPI, CI/CD, ArgoCD, AWX, sécurisation, support client
+Automatisation Ansible, FastAPI, CI/CD GitLab, ArgoCD, AWX, sécurisation & support client.
 
----
-
-### ☁️ **Intégrateur Système DevOps – Predict4health**  
-🗓 12/2023 → 07/2024  
-⚙️ AWS (EKS/Beanstalk), CI/CD GitLab, Vault, monitoring, HA/DR, documentation
-
----
+### ☁️ **Intégrateur DevOps – Predict4health**  
+AWS, EKS, GitLab CI, Vault, monitoring, migration, documentation, HA/DR.
 
 ### 🧭 **Lead DevOps & Big Data – Jems Datafactory (Enedis)**  
-🗓 01/2021 → 12/2023  
-👥 Management équipe, Jenkins/Groovy, Kubernetes, Spark, CDP, sécurité (Ranger/Kerberos)
-
----
+Management, Jenkins/Groovy, Kubernetes, Spark/CDP, sécurité (Ranger, Kerberos).
 
 ### 🏥 **DevOps – Open Group (AP-HP)**  
-🗓 07/2019 → 12/2020  
-🐳 Dockerisation EDS, Nagios, Oracle/PostgreSQL, migration vers Kubernetes
-
----
+Dockerisation, monitoring, bases Oracle/PostgreSQL, migration vers Kubernetes.
 
 ### 🏢 **DevOps & Production – Sopra HR Software**  
-🗓 06/2017 → 07/2019  
-⚙️ Jenkins, Ansible, AWS, Docker, Kubernetes bare-metal, Oracle/MySQL
+CI/CD Jenkins, Cloud AWS, Ansible, Kubernetes bare-metal, Oracle/MySQL.
 
 ---
 
-# 🎓 Formation
-
-🎓 **Ingénieur en Informatique – Spécialité Cloud Computing**  
-ESPRIT – 2016  
-
----
-
-# 📊 Stats GitHub (Animées & stylées)
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
@@ -110,15 +93,7 @@ ESPRIT – 2016
 
 ---
 
-# 🐍 Un petit snake pour la vibe 🐍
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 # 📫 Me contacter
-
 <p align="left">
   <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/TON_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -127,5 +102,5 @@ ESPRIT – 2016
 ---
 
 <div align="center">
-  <h3>✨ Toujours ouvert à de nouveaux challenges Cloud & DevOps ✨</h3>
+  <h3>✨ Toujours ouvert aux opportunités Cloud & DevOps ✨</h3>
 </div>

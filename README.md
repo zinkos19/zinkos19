@@ -59,12 +59,10 @@
 # 🏆 Certifications
 - 🟦 **SAFe 5 Agilist**  
 - 🟩 **LPIC-OT DevOps Tools Engineer**  
-- 🟦 **CKA – Kubernetes Administrator (formation)**  
-- 🟥 **RHCSA – Red Hat System Administrator**
 
 ---
 
-# 💼 Expérience Pro (Résumé Stylisé)
+# 💼 Expérience Professionelle
 
 ### 🚀 **Ingénieur Système DevOps – OpenWork (Cagip)**  
 🗓 12/2024 → 08/2025  

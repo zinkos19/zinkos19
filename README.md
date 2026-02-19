@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/39345855?s=150&v=4">
-  <img alt="Sami Zouaoui Avatar" src="https://avatars.githubusercontent.com/u/39345855?s=150&v=4" width="150" style="border-radius: 50%; border: 3px solid #0D9373;"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/153929180?s=150&v=4">
+  <img alt="Sami Zouaoui Avatar" src="https://avatars.githubusercontent.com/u/153929180?s=150&v=4" width="150" style="border-radius: 50%; border: 3px solid #0D9373;"/>
 </picture>
 
 # 👋 Hey, I'm Sami ZOUAOUI
@@ -66,8 +66,6 @@ I'm a **results-driven Senior Cloud & DevOps Consultant** based in **Paris, Fran
 - 📉 **MTTR Reduction** — Incident response time: 4 hours → 15 minutes
 - 🔐 **Security Audit Pass** — SOC2/ISO27001 compliance on first attempt
 - 👥 **30+ Engineers Mentored** — SRE, GitOps, and Cloud best practices
-
-
 
 ## 💼&nbsp; Core Expertise
 
@@ -228,24 +226,6 @@ Well-documented          < 30 min rebuild         Runbooks for every     Defense
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!-- CERTIFICATIONS & EDUCATION                              -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## &nbsp;🎓&nbsp; Certifications & Education
-
-<div align="center">
-
-| | Credential | Domain |
-|:---:|:-----------|:-------|
-| 🎓 | **Computer Engineer** | Computer Science |
-| 📜 | **SAFe Agilist** | Agile at Scale |
-| 📜 | **LPIC DevOps** | Linux Professional Institute |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS                                            -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -355,8 +335,6 @@ Well-documented          < 30 min rebuild         Runbooks for every     Defense
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samizouaoui)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinkos19)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samizouaoui91@gmail.com)
-
-**📧 Email:** samizouaoui91@gmail.com | **📍 Location:** Paris, France 🇫🇷
 
 ---
 

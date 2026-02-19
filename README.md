@@ -52,9 +52,9 @@ I'm a **results-driven Senior Cloud & DevOps Consultant** based in **Paris, Fran
 
 | Credential | Domain | Year |
 |:-----------|:-------|:-----|
-| 🎓 **Ingénieur Informatique** | Computer Science | 2015 |
-| 📜 **SAFe Agilist** | Agile at Scale | 2022 |
-| 📜 **LPIC DevOps** | Linux Professional Institute | 2021 |
+| 🎓 **Ingénieur Informatique** | Computer Science | 2016 |
+| 📜 **SAFe Agilist** | Agile at Scale | 2021 |
+| 📜 **LPIC DevOps** | Linux Professional Institute | 2018 |
 
 ## 🏆 Key Achievements & Impact
 
@@ -187,21 +187,58 @@ chaos engineering — rebuildable from scratch in under 30 minutes.
 <!-- TECH STACK                                              -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## 🛠️&nbsp; Technology Stack
+### 🏗️ Cloud & IaC
 
-<div align="center">
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-%23FFDA18.svg?style=flat&logo=opentofu&logoColor=black)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-%235277C3.svg?style=flat&logo=nixos&logoColor=white)
 
-**Cloud Providers** | **Containers** | **IaC** | **CI/CD**
-:---:|:---:|:---:|:---:
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+### 🐳 Containers & Orchestration
 
-**Observability** | **Security** | **Languages** | **Other Tools**
-:---:|:---:|:---:|:---:
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white) | ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black) ![SOPS](https://img.shields.io/badge/SOPS-FF6F00?style=flat-square&logo=mozilla&logoColor=white) ![Gatekeeper](https://img.shields.io/badge/Gatekeeper-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white)
 
-</div>
+### 🚀 CI/CD & DevOps
 
-<br/>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+### 📊 Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
+![Loki](https://img.shields.io/badge/Loki-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+
+### 🔐 Security & Compliance
+
+![Vault](https://img.shields.io/badge/Vault-%23FFEC6E.svg?style=flat&logo=vault&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
+
+### 💻 Languages & Scripting
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+
+### 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+---
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- APPROACH                                                -->
@@ -225,19 +262,57 @@ Well-documented          < 30 min rebuild         Runbooks for every     Defense
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS                                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## &nbsp;📈&nbsp; GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-**[Visit my GitHub Profile](https://github.com/zinkos19)** to see more projects and contributions
+![](https://github-readme-stats.vercel.app/api?username=zinkos19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zinkos19&theme=dark&hide_border=false&layout=compact&langs_count=10)
 
 </div>
 
-<br/>
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zinkos19&theme=dark&hide_border=true)](https://github.com/zinkos19)
+
+</div>
+
+---
+
+## 💬 Developer Quote
+
+<div align="center">
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 📈 Top Contributed Repositories
+
+<div align="center">
+
+[![](https://github-contributor-stats.vercel.app/api?username=zinkos19&limit=10&theme=dark)](https://github.com/zinkos19)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=zinkos19&theme=onestar&no-frame=true&row=1&column=10)
+
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!-- PINNED REPOS                                            -->
@@ -310,13 +385,13 @@ Well-documented          < 30 min rebuild         Runbooks for every     Defense
 <!-- CONNECT                                                 -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## &nbsp;🤝&nbsp; Let's Connect
+## &nbsp;🤝&nbsp; Let's Connect & Collaborate
 
 <div align="center">
 
-### 💬 I'm Available to Discuss
+### 💬 Available to Discuss
 
-`Cloud Architecture` • `Kubernetes & Containers` • `Infrastructure as Code` • `CI/CD & GitOps`  
+`Cloud Architecture` • `Kubernetes & Orchestration` • `Infrastructure as Code` • `CI/CD & GitOps`  
 `SRE & Observability` • `DevSecOps & Zero-Trust` • `Cost Optimization` • `Team Mentoring`
 
 ---
@@ -332,9 +407,12 @@ Well-documented          < 30 min rebuild         Runbooks for every     Defense
 
 ### 📞 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samizouaoui)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zinkos19)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samizouaoui91@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samizouaoui)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/zinkos19)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:samizouaoui91@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?logo=web&logoColor=white)](https://samizouaoui.com)
+
+**📧 Email:** <samizouaoui91@gmail.com> | **📍 Location:** Paris, France 🇫🇷
 
 ---
 
@@ -360,5 +438,11 @@ $2M+       Infrastructure Costs Saved
 ⭐ **If you find my work interesting, consider giving my projects a star!**
 
 *Built with ❤️ from Paris | Last updated: February 2026*
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=zinkos19&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with improvements for a modern professional GitHub profile -->
 
 </div>

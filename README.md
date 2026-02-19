@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/39345855?s=150&v=4">
-  <img alt="Sami Zouaoui Avatar" src="https://avatars.githubusercontent.com/u/39345855?s=150&v=4" width="150" style="border-radius: 50%; border: 3px solid #0D9373;"/>
+  <img alt="Sami Zouaoui Avatar" src="https://avatars.githubusercontent.com/?s=150&v=4" width="150" style="border-radius: 50%; border: 3px solid #0D9373;"/>
 </picture>
 
 # 👋 Hey, I'm Sami ZOUAOUI
